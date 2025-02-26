@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-26 18:27:46" tvg-logo="https://live.fanmingming.com/tv/2025-02-26 18:27:46.png" group-title="🕘️更新时间",2025-02-26 18:27:46
+#EXTINF:-1 tvg-name="2025-02-27 06:16:54" tvg-logo="https://live.fanmingming.com/tv/2025-02-27 06:16:54.png" group-title="🕘️更新时间",2025-02-27 06:16:54
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226733/index.m3u8$订阅源-IPv6
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226733/index.m3u8$订阅源-IPv6
